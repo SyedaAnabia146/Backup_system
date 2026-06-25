@@ -1,0 +1,61 @@
+[
+    {
+        "backup_id": "b7408075",
+        "date": "2026-06-22 01:04:37",
+        "source": "C:\\Users\\syeda\\OneDrive\\Desktop\\project\\MyData",
+        "destination": "C:\\Users\\syeda\\OneDrive\\Desktop\\project\\MyBackups\\backup_MyData_20260622_010437_b7408075",
+        "size_mb": 15.07,
+        "status": "Success",
+        "error_message": ""
+    },
+    {
+        "backup_id": "ff4155d0",
+        "date": "2026-06-22 01:38:54",
+        "source": "C:/Users/syeda/OneDrive/Desktop/project/Backup_System/MyData",
+        "destination": "C:\\Users\\syeda\\OneDrive\\Desktop\\project\\MyBackups\\backup_MyData_20260622_013853_ff4155d0.zip",
+        "size_mb": 14.99,
+        "status": "Success",
+        "mode": "Manual",
+        "error_message": ""
+    },
+    {
+        "backup_id": "ee59358c",
+        "date": "2026-06-22 01:43:25",
+        "source": "C:/Users/syeda/OneDrive/Desktop/project/Backup_System/MyData",
+        "destination": "C:\\Users\\syeda\\OneDrive\\Desktop\\project\\Backup_System\\MyBackups\\backup_MyData_20260622_014324_ee59358c.zip",
+        "size_mb": 14.99,
+        "status": "Success",
+        "mode": "Manual",
+        "error_message": ""
+    },
+    {
+        "backup_id": "31790849",
+        "date": "2026-06-22 01:47:47",
+        "source": "C:/Users/syeda/OneDrive/Desktop/project/Backup_System/MyData",
+        "destination": "C:\\Users\\syeda\\OneDrive\\Desktop\\project\\Backup_System\\MyBackups\\backup_MyData_20260622_014746_31790849.zip",
+        "size_mb": 14.99,
+        "status": "Success",
+        "mode": "Manual",
+        "error_message": ""
+    },
+    {
+        "backup_id": "8e460a8e",
+        "date": "2026-06-22 01:49:01",
+        "source": "C:/Users/syeda/OneDrive/Desktop/project/Backup_System/MyData",
+        "destination": "C:\\Users\\syeda\\OneDrive\\Desktop\\project\\Backup_System\\MyBackups\\backup_MyData_20260622_014900_8e460a8e.zip",
+        "size_mb": 14.99,
+        "status": "Success",
+        "mode": "Manual",
+        "error_message": ""
+    },
+    {
+        "backup_id": "43b7bbb5",
+        "date": "2026-06-22 01:51:05",
+        "source": "C:/Users/syeda/OneDrive/Desktop/project/Backup_System/MyData",
+        "destination": "C:\\Users\\syeda\\OneDrive\\Desktop\\project\\Backup_System\\MyBackups\\backup_MyData_20260622_015104_43b7bbb5.zip",
+        "size_mb": 14.99,
+        "status": "Success",
+        "mode": "Manual",
+        "error_message": ""
+    }
+]
