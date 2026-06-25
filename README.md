@@ -1,9 +1,4 @@
-<<<<<<< HEAD
-# Automated Data Backup and Recovery System
-=======
-<<<<<<< HEAD
-# 🔄 Automated Data Backup & Recovery System
->>>>>>> f0e6462 (Add remaining project assets and configurations)
+ 🔄 Automated Data Backup & Recovery System
 
 Hi! This is my Python project for the backup and recovery system. I built this using Streamlit for the user interface, SQLite for storing the logs, and Python's threading to run the auto-scheduler in the background.
 
