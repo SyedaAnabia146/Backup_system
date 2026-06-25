@@ -2,7 +2,7 @@
 
 Hi! This is my Python project for the backup and recovery system. I built this using Streamlit for the user interface, SQLite for storing the logs, and Python's threading to run the auto-scheduler in the background.
 
-## What this project does:
+## What this project does: 
 * **Manual Backup:** You can type any folder path (like MyData) and copy it into another folder (like MyBackups) as a zip file.
 * **Auto Scheduler:** You can set a time in minutes, and it will automatically keep taking backups in the background. You can also stop it anytime with the stop button.
 * **Disaster Recovery:** If you want your files back, just select the backup ID from the dropdown, give a folder path, and it will extract everything safely.
@@ -16,12 +16,12 @@ Hi! This is my Python project for the backup and recovery system. I built this u
 
 ## How to run it on your computer:
 
-<<<<<<< HEAD
+
 1. First, make sure you have python installed.
 2. Open your terminal in this project folder and install the requirements:
    ```bash
    pip install streamlit pandas
-=======
+
 This implementation includes all advanced target milestones specified in the evaluation guidelines:
 
 1.  **Production ZIP Compression:** Reduces storage footprints by utilizing `zipfile.ZIP_DEFLATED` algorithms to securely bundle directory structures into time-stamped portable archives.
